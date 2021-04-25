@@ -2,7 +2,7 @@
 title: Installation of Software
 date: 2021-03-06
 categories:
-	- Software
+- Software
 ---
 
 ### Windows
