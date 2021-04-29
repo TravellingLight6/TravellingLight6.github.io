@@ -14,7 +14,7 @@ pip install jupyter_nbextensions_configurator
 jupyter nbextensions_configurator enable --user
 ```
 #### Latex setting for vscode
-''' json
+``` json
     "latex-workshop.latex.tools": [
         {
             "name": "xelatex",
@@ -94,4 +94,4 @@ jupyter nbextensions_configurator enable --user
             ]
         }
     ]
-'''
+```
