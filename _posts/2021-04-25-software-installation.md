@@ -101,3 +101,7 @@ jupyter nbextensions_configurator enable --user
 vim ~/.nutstore/dist/conf/nutstore.properties
 ```
 And change webui.enable=true to false.
+#### Cern root
+```bash
+pip3 install metakernel
+```
