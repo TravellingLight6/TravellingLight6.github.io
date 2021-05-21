@@ -95,3 +95,9 @@ jupyter nbextensions_configurator enable --user
         }
     ]
 ```
+### Linux
+#### Nutstore
+```bash
+vim ~/.nutstore/dist/conf/nutstore.properties
+```
+And change webui.enable=true to false.
