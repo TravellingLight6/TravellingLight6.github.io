@@ -8,6 +8,7 @@ categories:
 ### Windows
 #### Install extensions for Jupyter notebook
 ``` bash
+pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 pip install jupyter_contrib_nbextensions
 jupyter contrib nbextension install --user
 pip install jupyter_nbextensions_configurator
